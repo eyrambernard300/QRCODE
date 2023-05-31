@@ -8,12 +8,11 @@
 #qrcontent{
     margin: 1px;
     padding: 12px;
-    border: 1px solid black;
-    border-radius: 2%;
+    border-radius: 5%;
     width: 20%;
     height: 65vh;
     position: absolute;
-    top: 5%;
+    top: 15%;
     left: 38%;
     background-color: whitesmoke;
 }
@@ -39,6 +38,14 @@
     text-align: center;
     margin-top: 5%;
     color: #80848f;
+}
+
+#img{
+    border-radius: 5%;
+}
+
+#mine{
+    border-radius: 5%;
 }
 
 
