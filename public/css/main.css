@@ -26,9 +26,10 @@
 }
 
 #writings{
-    font-size: 34px;
+    font-size: 30px;
     font-weight: bolder;
     background-color: white;
+    text-align: center;
 }
 
 #write{
