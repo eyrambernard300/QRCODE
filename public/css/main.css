@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(95, 127, 153);
+    margin: 0;
+    padding: 0;
+}
+
+
+#qrcontent{
+    margin: 1px;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 2%;
+    width: 20%;
+    height: 65vh;
+    position: absolute;
+    top: 5%;
+    left: 38%;
+    background-color: whitesmoke;
+}
+
+#content{
+    width: 95%;
+    height: 45%;
+    position: absolute;
+    top: 53%;
+    background-color: white;
+}
+
+#writings{
+    font-size: 34px;
+    font-weight: bolder;
+    background-color: white;
+}
+
+#write{
+    font-size: 25px;
+    font-weight: 400;
+    background-color: white;
+    text-align: center;
+    margin-top: 5%;
+    color: #80848f;
+}
+
+
